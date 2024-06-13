@@ -14,8 +14,10 @@ The Weather App allows users to enter a city name and retrieve the current tempe
 
 ## Requirements
 
-- Python 3.x
 - Streamlit
+- python = "^3.11"
+- pandas = "^2.2.2"
+- streamlit = "^1.35.0"
 - pyproject.toml
 
 ## How to use
