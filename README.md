@@ -24,3 +24,5 @@ The Weather App allows users to enter a city name and retrieve the current tempe
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    cd weather-app
+OR
+use the following app link: https://weather-checker-applicationid-pgcbboxh5cl4nqqvoukt5j.streamlit.app 
